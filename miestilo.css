@@ -1,0 +1,11 @@
+/*
+    Estilos de mi página web.
+    Realizado por Esteban Andrés.
+*/
+
+
+p {
+    font-size: 200%;
+    color: red;
+    text-indent: 30px; /* Indentación de los párrafos*/;
+    }
